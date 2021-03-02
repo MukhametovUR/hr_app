@@ -1,0 +1,3 @@
+set HR_USER=hr;
+set HR_PASSWORD=hr;
+set HR_CONNECTIONSTRING=0.0.0.0/db11g;
